@@ -1,5 +1,5 @@
 # extract-multiple-js-files-code-to-a-single-js-file
-A tool written in python which will gather all the content from multiple js files and paste that content in a single .js file.
+A tool written in python which will gather all the content from multiple js files and paste that content in a single .js file within seconds.
 
 Hi, i've created a tool by which you can extract all the code from bulk js files into a single file, worthy for bug bounty hunters.
 
